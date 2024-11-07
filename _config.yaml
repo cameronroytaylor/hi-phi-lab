@@ -8,6 +8,8 @@ header-dark: false
 footer-dark: false
 proofer: false
 
+baseurl: "/hi-phi-lab"
+
 # site social media and other links
 links:
   email: ctaylor7@unc.edu
