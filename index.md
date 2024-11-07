@@ -1,9 +1,9 @@
 ---
 ---
 
-# cameronroytaylor's Website
+# The High-Performance Human Interfacing Laboratory!
 
-An engaging 1-3 sentence description of your lab.
+We develop transformative human interfacing technologies to enable a new era of human health.
 
 {% include section.html %}
 
