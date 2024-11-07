@@ -1,7 +1,7 @@
 ---
 ---
 
-# The High-Performance Human Interfacing Laboratory!
+# The High-Performance Human Interfacing Laboratory
 
 We develop transformative human interfacing technologies to enable a new era of human health.
 
@@ -11,7 +11,7 @@ We develop transformative human interfacing technologies to enable a new era of 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Example research section
 
 {%
   include button.html
