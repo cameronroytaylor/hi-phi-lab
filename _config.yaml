@@ -2,8 +2,8 @@
 title: Hi-PHI Lab
 subtitle: The High-Performance Human Interfacing Laboratory
 description: Developing transformative human interfacing technologies to enable a new era of human health.
-header: background.png
-footer: background.png
+header: images/background.png
+footer: images/background.png
 header-dark: false
 footer-dark: false
 proofer: false
