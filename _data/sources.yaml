@@ -1,25 +1,8 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
 - id: doi:10.1126/scirobotics.abg0656
-  type: paper
-  description: A pair of magnetic beads can be used for minimally-invasive muscle tissue length tracking.
   title: Magnetomicrometry
+  type: paper
+  image: publications/icons/magnetomicrometry_icon.jpg
+  description: A pair of magnetic beads can be used for minimally-invasive muscle tissue length tracking.
   authors:
   - C. R. Taylor
   - S. S. Srinivasan
@@ -30,9 +13,24 @@
   publisher: Science Robotics
   date: '2021-08-11'
   link: https://doi.org/gtvkpz
-  orcid: 0000-0001-7618-0544
   plugin: orcid.py
   file: orcid.yaml
   buttons:
     - type: pdf
-      link: pdfs/magnetomicrometry_authors_version.pdf
+      link: publications/pdfs/magnetomicrometry_authors_version.pdf
+
+- id: doi:10.36227/techrxiv.172954209.92752104/v1
+  title: Metamorphic Flexure Bearings for Extended Range of Motion
+  type: paper
+  image: publications/icons/mfb_icon.png
+  description: Metamorphic flexure bearings extend compliant mechanism benefits with a conventional bearing range of motion.
+  authors:
+  - Cameron Taylor
+  - Will Flanagan
+  - Talmage H. Jones
+  - He Kai Lim
+  - Jonathan B. Hopkins
+  - Tyler R. Clites
+  publisher: TechRxiv
+  date: '2024-10-21'
+  link: https://doi.org/g8qhwv
