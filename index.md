@@ -1,9 +1,9 @@
 ---
 ---
 
-# The High-Performance Human Interfacing Laboratory
+# Welcome to the Hi-PHI Lab!
 
-We develop transformative human interfacing technologies to enable a new era of human health.
+We’re a new lab starting in 2025, and we develop transformative human interfacing technologies to enable a new era of human health.
 
 {% include section.html %}
 
