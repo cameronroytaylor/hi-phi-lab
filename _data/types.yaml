@@ -153,6 +153,11 @@ paper:
   text: Paper
   tooltip: Paper
 
+pdf:
+  icon: fa-solid fa-scroll
+  text: PDF
+  tooltip: Click here to download the PDF.
+
 book:
   icon: fa-solid fa-book
   text: Book
