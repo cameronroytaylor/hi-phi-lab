@@ -11,7 +11,7 @@ We develop transformative human interfacing technologies to enable a new era of 
 
 {% capture text %}
 
-Example research section
+Example research section here.
 
 {%
   include button.html
