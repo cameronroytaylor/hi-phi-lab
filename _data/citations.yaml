@@ -1,174 +1,170 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.36227/techrxiv.172954209.92752104/v1
+  title: Metamorphic Flexure Bearings for Extended Range of Motion
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Cameron Taylor
+  - Will Flanagan
+  - Talmage H. Jones
+  - He Kai Lim
+  - Jonathan B. Hopkins
+  - Tyler R. Clites
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2024-10-21'
+  link: https://doi.org/g8qhwv
+  orcid: 0000-0001-7618-0544
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1038/s44222-024-00151-y
+  title: Mechanoneural interfaces for bionic integration
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Tony Shu
+  - Guillermo Herrera-Arcos
+  - Cameron R. Taylor
+  - Hugh M. Herr
+  publisher: Nature Reviews Bioengineering
+  date: '2024-02-19'
+  link: https://doi.org/g8qhww
+  orcid: 0000-0001-7618-0544
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.09.01.555995
+  title: Non-Pyrogenicity and Biocompatibility of Parylene-Coated Magnetic Bead Implants
+  authors:
+  - Cameron R. Taylor
+  - Joshua K. Nott
+  - Nilmini H. Ratnasena
+  - Joel M. Cohen
+  - Hugh M. Herr
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2023-09-05'
+  link: https://doi.org/g8qhwx
+  orcid: 0000-0001-7618-0544
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3389/fbioe.2022.1010276
+  title: Clinical viability of magnetic bead implants in muscle
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Cameron R. Taylor
+  - William H. Clark
+  - Ellen G. Clarrissimeaux
+  - Seong Ho Yeon
+  - Matthew J. Carty
+  - Stuart R. Lipsitz
+  - Roderick T. Bronson
+  - Thomas J. Roberts
+  - Hugh M. Herr
+  publisher: Frontiers in Bioengineering and Biotechnology
+  date: '2022-10-25'
+  link: https://doi.org/g8qhwz
+  orcid: 0000-0001-7618-0544
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1101/2022.08.02.502527
+  title: Untethered Muscle Tracking Using Magnetomicrometry
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Cameron R. Taylor
+  - Seong Ho Yeon
+  - William H. Clark
+  - Ellen G. Clarrissimeaux
+  - "Mary Kate O\u2019Donnell"
+  - Thomas J. Roberts
+  - Hugh M. Herr
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2022-08-04'
+  link: https://doi.org/gsx55x
+  orcid: 0000-0001-7618-0544
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.36227/techrxiv.18282770
+  title: Low-Latency Tracking of Multiple Permanent Magnets
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Cameron Taylor
+  - Haley Abramson
+  - Hugh Herr
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2022-01-19'
+  link: https://doi.org/g8qhw2
+  orcid: 0000-0001-7618-0544
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.48550/arXiv.2211.10441
+  title: "Rastreo muscular m\xF3vil usando magnetomicrometr\xEDa -- traducci\xF3n\
+    \ al espa\xF1ol del articulo \"Untethered Muscle Tracking Using Magnetomicrometry\"\
+    \ por el autor Cameron R. Taylor"
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Cameron R. Taylor
+  - Seong Ho Yeon
+  - William H. Clark
+  - Ellen G. Clarrissimeaux
+  - Mary Kate O'Donnell
+  - Thomas J. Roberts
+  - Hugh M. Herr
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8qhw3
+  orcid: 0000-0001-7618-0544
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1126/scirobotics.abg0656
+  title: Magnetomicrometry
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - C. R. Taylor
+  - S. S. Srinivasan
+  - S. H. Yeon
+  - "M. K. O\u2019Donnell"
+  - T. J. Roberts
+  - H. M. Herr
+  publisher: Science Robotics
+  date: '2021-08-11'
+  link: https://doi.org/gtvkpz
+  orcid: 0000-0001-7618-0544
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3334480.3383096
+  title: 'ATHack: Co-Design and Education in Assistive Technology Development'
+  authors:
+  - Jaya Narain
+  - Ishwarya Ananthabhotla
+  - Samuel Mendez
+  - Cameron Taylor
+  - Hosea Siu
+  - Lora Brugnaro
+  - Adriana Mallozzi
+  publisher: Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing
+    Systems
+  date: '2020-04-25'
+  link: https://doi.org/g8qhw4
+  orcid: 0000-0001-7618-0544
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/jsen.2019.2936766
+  title: Low-Latency Tracking of Multiple Permanent Magnets
+  authors:
+  - Cameron R. Taylor
+  - Haley G. Abramson
+  - Hugh M. Herr
+  publisher: IEEE Sensors Journal
+  date: '2019-12-01'
+  link: https://doi.org/gnck2x
+  orcid: 0000-0001-7618-0544
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/scirobotics.aan2971
+  title: 'On prosthetic control: A regenerative agonist-antagonist myoneural interface'
+  authors:
+  - S. S. Srinivasan
+  - M. J. Carty
+  - P. W. Calvaresi
+  - T. R. Clites
+  - B. E. Maimon
+  - C. R. Taylor
+  - A. N. Zorzos
+  - H. Herr
+  publisher: Science Robotics
+  date: '2017-05-31'
+  link: https://doi.org/gjqz4m
+  orcid: 0000-0001-7618-0544
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +180,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +196,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
